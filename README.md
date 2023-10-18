@@ -1,7 +1,8 @@
-# Hi, I'm Vikas 👋 <img src="https://github.com/v1ikaskumarpatel/vikaskumarpatel/blob/main/banner(1).png">
+# Hi, I'm Vikas 👋 <img src="https://github.com/vikas-mnnit2025/vikas-mnnit2025/blob/main/banner (1).png">
 ### Find me on internet
 - 👀 I’m interested in coding and web development
 - 🌱 I’m currently learning 2nd year in MNNIT, Allahabad
+- 📫 How to reach me <a href="https://www.linkedin.com/in/vikaskumarpatel1998/">Linkedin</a>
 <h1 align="center">Hi 👋, I'm Vikas Kumar Patel</h1>
 <h3 align="center">A passionate Software Engineer from India</h3>
 <img align="right" alt="coding" width="400" src="https://user-images.githubusercontent.com/55389276/140866485-8fb1c876-9a8f-4d6a-98dc-08c4981eaf70.gif">
