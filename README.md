@@ -1,4 +1,4 @@
-# Hi, I'm Vikas 👋 <img src="https://github.com/v1ikaskumarpatel/vikaskumarpatel/blob/main/banner1.png">
+# Hi, I'm Vikas 👋 <img src="https://github.com/v1ikaskumarpatel/vikaskumarpatel/blob/main/banner(1).png">
 ### Find me on internet
 - 👀 I’m interested in coding and web development
 - 🌱 I’m currently learning 2nd year in MNNIT, Allahabad
